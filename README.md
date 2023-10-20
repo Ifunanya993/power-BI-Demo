@@ -42,8 +42,22 @@ Power BI supports three relationship types:
 different tables.
 
 
-### Cardinality and filtering
+![](Modelling.png)
 
-Cardinality
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 
