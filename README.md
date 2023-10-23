@@ -42,14 +42,42 @@ Power BI supports three relationship types:
 different tables.
 
 
+### PROBLEM SOLVING
+
+USING THE NORTHWIND TRADERS DATASET
+
+- MODEL
+
+- VISUALIZE AND
+
+- ANALYZE YOUR INSIGHTS
+
+
+### SOLUTION
+
+Open your power BI
+
+click on get data 
+
+Import data from the files you saved with
+
+Transform to power query to clean the datasets
+
+Load and it will be imported to your power BI.
+
+On the left pane of your power BI desktop
+
+Click on Model
+
+By default, power BI will create a relationship.
+
+Then adjust or remove unwanted connections by right clicking on the connectors.
+
+
+
 ![modelling.png](https://github.com/Ifunanya993/power-BI-Demo/blob/9cb328e444a825e25bfbf733fc9054ba0299aa79/modelling.png)
 
 
-Click on Model at the left pane of your power BI
-
-By default, Power BI will create a relationship
-
-To delete a connection, right click on the connection link and delete.
  
 Employees table and Customer table : The tables was connected by City, which is the common column.
 
@@ -82,7 +110,8 @@ This comprises of :
 
 4. Sum of discounts by company name
 
-5. sum of quqntity by company name
+5. sum of quantity by company name
+
 
 ### ANALYSIS
 
