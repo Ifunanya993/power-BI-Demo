@@ -42,7 +42,60 @@ Power BI supports three relationship types:
 different tables.
 
 
-![](Modelling.png)
+![modelling.png](https://github.com/Ifunanya993/power-BI-Demo/blob/9cb328e444a825e25bfbf733fc9054ba0299aa79/modelling.png)
+
+
+Click on Model at the left pane of your power BI
+
+By default, Power BI will create a relationship
+
+To delete a connection, right click on the connection link and delete.
+ 
+Employees table and Customer table : The tables was connected by City, which is the common column.
+
+Shippers table and Orders table: The tables was connected by ShipperID, which is the common column.
+
+Order details  table and Products table : The tables was connected by ProductID, which is the common column.
+
+Employees table and Orders table : The tables was connected by EmployeeID, which is the common column.
+
+Category table and Product table : The tables was connected by CategoryID, which is the common column.
+
+Shippers table and Order table : The tables was connected by ShippersID, which i the common column.
+
+Order details table and Order table : The tables was connected by OrderID, which is the common column.
+
+Shippers table and Customer table : The tables was connected by Companyname, which is the common column.
+
+Customers table and Order table : The tables was connected by CustomerID, which is the common column.
+
+
+### VISUALIZATION
+
+This comprises of :
+
+1. Sum of Freight
+
+2. Average unitprice of the products
+
+3. Number of quantity of products sold
+
+4. Sum of discounts by company name
+
+5. sum of quqntity by company name
+
+### ANALYSIS
+
+1. Sum of freight.
+The total cost of goods freighted to the customers is
+
+2. The 
+
+
+
+
+
+
 
 
 
