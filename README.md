@@ -15,7 +15,7 @@ an interesting data visualization on multiple data sources.
 
 ### Key Components
 
-- Facts tables : It stores quantitative and measurable data such as sales, transactions , finam=ncial metrics,
+- Facts tables : It stores quantitative and measurable data such as sales, transactions , financial metrics,
   or event data.
 
   They contain foreign keys to link to dimension tables and captures the context and details of each transactions.
@@ -77,25 +77,13 @@ Then adjust or remove unwanted connections by right clicking on the connectors.
 
 ![modelling.png](https://github.com/Ifunanya993/power-BI-Demo/blob/9cb328e444a825e25bfbf733fc9054ba0299aa79/modelling.png)
 
+The model is a star schema.
 
+There are 4-dimension tables and 3 fact table.
+
+The dimension tables are all joined to the fact table with a one-to-many relationship
  
-Employees table and Customer table : The tables was connected by City, which is the common column.
 
-Shippers table and Orders table: The tables was connected by ShipperID, which is the common column.
-
-Order details  table and Products table : The tables was connected by ProductID, which is the common column.
-
-Employees table and Orders table : The tables was connected by EmployeeID, which is the common column.
-
-Category table and Product table : The tables was connected by CategoryID, which is the common column.
-
-Shippers table and Order table : The tables was connected by ShippersID, which i the common column.
-
-Order details table and Order table : The tables was connected by OrderID, which is the common column.
-
-Shippers table and Customer table : The tables was connected by Companyname, which is the common column.
-
-Customers table and Order table : The tables was connected by CustomerID, which is the common column.
 
 
 ### VISUALIZATION
