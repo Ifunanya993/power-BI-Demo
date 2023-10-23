@@ -100,7 +100,7 @@ Customers table and Order table : The tables was connected by CustomerID, which 
 
 ### VISUALIZATION
 
-This comprises of :
+The reports comprises of :
 
 1. Sum of Freight
 
@@ -108,7 +108,7 @@ This comprises of :
 
 3. Number of quantity of products sold
 
-4. Sum of discounts by company name
+4. Sum of discounts by contact name
 
 5. sum of quantity by company name
 
@@ -116,9 +116,22 @@ This comprises of :
 ### ANALYSIS
 
 1. Sum of freight.
-The total cost of goods freighted to the customers is
+The total cost of freights is 64.94k
 
-2. The 
+2. The Average unitprice of products is 26.22
+
+3. Number of quantity of goods sold:
+The company currenly sold 2.155k quantity of goods.
+
+4. Sum of discounts by company:
+The customer that has the highest discount due to bulky demand is Jose Pavarotti
+
+5. Sum of quantity by Company:
+The highest quantity of products was supplied to Save-a-lot Market Company.
+
+   
+   
+
 
 
 
