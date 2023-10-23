@@ -100,7 +100,10 @@ Customers table and Order table : The tables was connected by CustomerID, which 
 
 ### VISUALIZATION
 
-The reports comprises of :
+
+![](https://github.com/Ifunanya993/power-BI-Demo/blob/79af55129590a37928dc09c907506ad578510458/visuals.png)
+
+The report comprises of :
 
 1. Sum of Freight
 
@@ -128,6 +131,17 @@ The customer that has the highest discount due to bulky demand is Jose Pavarotti
 
 5. Sum of quantity by Company:
 The highest quantity of products was supplied to Save-a-lot Market Company.
+
+
+### CONCLUSION AND RECOMMENDATIONS:
+
+For a deep dive into the analytics, the datasets of the previous years will be required for 
+comparison and data driven decision making.
+
+
+
+
+
 
    
    
