@@ -89,7 +89,7 @@ The dimension tables are all joined to the fact table with a one-to-many relatio
 ### VISUALIZATION
 
 
-![](https://github.com/Ifunanya993/power-BI-Demo/blob/79af55129590a37928dc09c907506ad578510458/visuals.png)
+![visuals.png](https://github.com/Ifunanya993/power-BI-Demo/blob/79af55129590a37928dc09c907506ad578510458/visuals.png)
 
 The report comprises of :
 
